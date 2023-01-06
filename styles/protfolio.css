@@ -169,6 +169,10 @@ section {
   margin: 50px;
   text-align: center;
 }
+.summary-content hr{
+  margin: 0 auto;
+  width: 500px;
+}
 .contact {
   height: 680px;
   display: flex;
